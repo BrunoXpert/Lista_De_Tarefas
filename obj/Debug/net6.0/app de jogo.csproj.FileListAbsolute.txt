@@ -1,0 +1,15 @@
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\obj\Debug\net6.0\app de jogo.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\obj\Debug\net6.0\app de jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\obj\Debug\net6.0\app de jogo.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\obj\Debug\net6.0\app de jogo.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\obj\Debug\net6.0\app de jogo.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\bin\Debug\net6.0\app de jogo.exe
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\bin\Debug\net6.0\app de jogo.deps.json
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\bin\Debug\net6.0\app de jogo.runtimeconfig.json
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\bin\Debug\net6.0\app de jogo.dll
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\bin\Debug\net6.0\app de jogo.pdb
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\obj\Debug\net6.0\app de jogo.dll
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\obj\Debug\net6.0\refint\app de jogo.dll
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\obj\Debug\net6.0\app de jogo.pdb
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\obj\Debug\net6.0\app de jogo.genruntimeconfig.cache
+C:\Users\Bruno\source\repos\CANAL CFB CSHARP\ConsoleApp1\app de jogo\obj\Debug\net6.0\ref\app de jogo.dll
